@@ -6,7 +6,7 @@ description: "threat0day blog"
 email: "nsaysmonic@gmail.com"
 #twitter_username: "someusername"
 github_username: "threat0day"
-linkedin_username: "threat0day"
+linkedin_username: "mikhail-roslov-0429b7116"
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
@@ -32,4 +32,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Other
+      tags: Записи
