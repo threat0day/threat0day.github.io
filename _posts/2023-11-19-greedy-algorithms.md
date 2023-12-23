@@ -21,4 +21,4 @@ for money in money_variants.keys():
  
 print(money_variants)
 ```
-Теги: [алгоритмы]
+Теги: [алгоритмы] [python]

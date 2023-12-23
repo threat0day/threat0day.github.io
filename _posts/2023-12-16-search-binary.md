@@ -41,4 +41,4 @@ list_container = [16 , 18 , 20 , 50 , 60 , 81 , 84 , 89]
 print(binary_search(list_container , 81))
 print(binary_search(list_container , 10))
 ```
-Теги: [алгоритмы]
+Теги: [алгоритмы] [python]
